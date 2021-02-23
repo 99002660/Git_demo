@@ -4,3 +4,4 @@ Welcome to Git
 Test line
 
 New
+New
